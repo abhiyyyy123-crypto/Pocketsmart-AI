@@ -1,0 +1,73 @@
+### PocketSmart AI: Your Smart Budget & Recommendation Assistant
+
+### Project Design Phase
+
+### 1\. Introduction
+
+The project design phase explains the structure and layout of PocketSmart AI. It defines how the system works, how users interact with it, and how Google Gemini AI generates personalized budget recommendations.
+
+### 2\. System Architecture
+
+The system follows a simple architecture with three main components:
+
+* User Interface: Streamlit provides an interactive interface for entering financial details.
+
+* Processing System: Python collects and processes user inputs.
+
+* AI Integration: Google Gemini analyzes the information and generates budget plans and financial recommendations.
+
+### 3\. Module Design
+
+The project consists of the following modules:
+
+* Input Module: Collects monthly income, expenses, budget limits, and savings goals.
+
+* Budget Planning Module: Organizes financial details and prepares budget information.
+
+* AI Recommendation Module: Uses Gemini AI to generate personalized financial suggestions.
+
+* Output Module: Displays budget plans, expense analysis, and saving tips.
+
+### 4\. User Interface Design
+
+The application interface is designed using Streamlit with the following elements:
+
+* Project title and introduction.
+
+* Input fields for income and expenses.
+
+* Budget and savings goal sections.
+
+* A button to generate AI recommendations.
+
+* A results section to display personalized suggestions.
+
+### 5\. Data Flow Design
+
+* The user enters financial information.
+
+* The system collects and processes the input.
+
+* The information is sent to the Gemini AI model.
+
+* Gemini generates a personalized budget plan.
+
+* The application displays the results to the user.
+
+### 6\. Technology Design
+
+* Python: Handles application logic and processing.
+
+* Streamlit: Creates the web-based user interface.
+
+* Google Gemini API: Generates intelligent financial recommendations.
+
+* Visual Studio Code: Used for coding and project development.
+
+### 7\. Expected Design Outcome
+
+The design phase produces a clear system structure, a simple user interface, and a well-defined workflow for integrating Gemini AI with the budgeting application.
+
+### 8\. Conclusion
+
+The project design phase establishes the architecture, modules, interface, and data flow of PocketSmart AI. This design provides a strong foundation for developing an efficient and user-friendly AI-powered budget and recommendation assistant.
