@@ -1,0 +1,87 @@
+### PocketSmart AI: Your Smart Budget & Recommendation Assistant
+
+### Requirement Analysis Phase
+
+### 1\. Introduction
+
+The requirement analysis phase identifies the functional and technical requirements of PocketSmart AI. The system is designed to help users manage their income, expenses, savings, and budgets using Google Gemini AI.
+
+### 2\. Functional Requirements
+
+* User Input: Allow users to enter their monthly income, expenses, and financial goals.
+
+* Budget Planning: Generate suitable monthly budget plans based on user information.
+
+* Expense Analysis: Analyze spending habits and identify unnecessary expenses.
+
+* AI Recommendations: Provide personalized financial advice using Google Gemini.
+
+* Savings Suggestions: Suggest ways to save money and achieve financial goals.
+
+### 3\. Non-Functional Requirements
+
+* User-Friendly Interface: The application should be simple and easy to use.
+
+* Performance: Generate recommendations quickly.
+
+* Accuracy: Provide relevant and understandable budgeting suggestions.
+
+* Security: Protect users' financial information and API keys.
+
+* Reliability: Ensure the application works smoothly with proper error handling.
+
+### 4\. Hardware Requirements
+
+* Computer or laptop
+
+* Minimum 4 GB RAM
+
+* Stable internet connection
+
+* Keyboard and mouse
+
+### 5\. Software Requirements
+
+* Operating System: Windows, Linux, or macOS
+
+* Programming Language: Python
+
+* Framework: Streamlit
+
+* AI Model: Google Gemini
+
+* Code Editor: Visual Studio Code
+
+* API: Gemini API
+
+### 6\. Input Requirements
+
+The application requires the following inputs from users:
+
+* Monthly income
+
+* Monthly expenses
+
+* Budget limit
+
+* Savings goals
+
+* Financial preferences
+
+### 7\. Output Requirements
+
+The system generates:
+
+* Personalized budget plans
+
+* Expense analysis
+
+* Money-saving tips
+
+* AI-based financial recommendations
+
+* Savings suggestions
+
+### 8\. Conclusion
+
+The requirement analysis phase defines the essential features, hardware, and software needed to develop PocketSmart AI. These requirements provide a clear foundation for the design and development of a smart, user-friendly budgeting assistant using Google Gemini models.
