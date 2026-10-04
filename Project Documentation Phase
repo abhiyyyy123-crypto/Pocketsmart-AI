@@ -1,0 +1,85 @@
+### PocketSmart AI: Your Smart Budget & Recommendation Assistant
+
+### Project Documentation Phase
+
+### 1\. Introduction
+
+The project documentation phase involves preparing detailed information about PocketSmart AI, including its objectives, design, development, and testing. Documentation helps users and developers understand how the application works.
+
+### 2\. Project Overview
+
+PocketSmart AI is an AI-powered budgeting assistant developed using Python, Streamlit, and Google Gemini models. It helps users manage their income, expenses, and savings by providing personalized financial recommendations.
+
+### 3\. System Requirements
+
+Hardware Requirements:
+
+* Computer or laptop
+
+* Minimum 4 GB RAM
+
+* Stable internet connection
+
+Software Requirements:
+
+* Python
+
+* Streamlit
+
+* Google Gemini API
+
+* Visual Studio Code
+
+* Windows, Linux, or macOS
+
+### 4\. System Design Documentation
+
+The system consists of the following modules:
+
+* Input Module: Collects financial details from users.
+
+* Budget Planning Module: Organizes income and expense information.
+
+* AI Recommendation Module: Uses Gemini AI to generate budgeting advice.
+
+* Output Module: Displays budget plans and money-saving suggestions.
+
+### 5\. Implementation Documentation
+
+The application is developed using Python and Streamlit. The Google Gemini API is integrated to analyze user-provided financial information and generate personalized recommendations. The interface allows users to enter details and view AI-generated results.
+
+### 6\. Testing Documentation
+
+The application is tested to verify its main features and performance. Testing includes:
+
+* Input validation.
+
+* Budget recommendation generation.
+
+* Gemini API integration.
+
+* Error handling.
+
+* User interface functionality.
+
+### 7\. User Manual
+
+Steps to use PocketSmart AI:
+
+* Open the PocketSmart AI web application.
+
+* Enter monthly income and expenses.
+
+* Set a budget limit and savings goal.
+
+* Click the generate recommendations button.
+
+* View the personalized budget plan and financial suggestions.
+
+### 8\. Expected Outcome
+
+The documentation provides a complete overview of the project, its technical requirements, system structure, implementation, testing, and usage instructions. It serves as a reference for future improvements and maintenance.
+
+### 9\. Conclusion
+
+The project documentation phase records all important details of PocketSmart AI in a clear and organized manner. It helps developers maintain the system and enables users to understand and use the AI-powered budgeting assistant effectively.
