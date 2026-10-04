@@ -1,0 +1,68 @@
+### PocketSmart AI: Your Smart Budget & Recommendation Assistant
+
+### Project Testing Phase
+
+### 1\. Introduction
+
+The project testing phase ensures that PocketSmart AI works correctly and provides reliable budget recommendations. The application is tested to identify errors, improve performance, and ensure a smooth user experience.
+
+### 2\. Testing Objectives
+
+* To check the functionality of the application.
+
+* To identify and fix coding errors.
+
+* To verify the Gemini API integration.
+
+* To ensure accurate processing of user inputs.
+
+* To improve application performance and usability.
+
+### 3\. Types of Testing
+
+* Unit Testing: Tests individual modules such as input validation and budget calculations.
+
+* Integration Testing: Checks the connection between Streamlit, Python, and the Gemini API.
+
+* Functional Testing: Verifies that all features work according to requirements.
+
+* Usability Testing: Ensures the application is simple and user-friendly.
+
+* Error Testing: Checks how the system handles invalid inputs, missing API keys, and connection failures.
+
+### 4\. Testing Activities
+
+* Enter different income and expense values.
+
+* Check whether the application generates suitable budget recommendations.
+
+* Verify the Gemini API response.
+
+* Test the application with empty or invalid inputs.
+
+* Check the display of results and error messages.
+
+* Ensure the application runs without unexpected errors.
+
+### 5\. Test Cases
+
+| Test Case                     | Expected Result                      |
+| ----------------------------- | ------------------------------------ |
+| Enter valid financial details | Generate budget recommendations      |
+| Submit empty inputs           | Display suitable validation messages |
+| Enter invalid values          | Handle errors properly               |
+| Use a valid API key           | Connect successfully to Gemini       |
+| Disconnect the internet       | Display an error message             |
+| Generate recommendations      | Show AI-generated suggestions        |
+
+### 6\. Bug Identification and Correction
+
+During testing, errors such as invalid inputs, API connection failures, and unexpected responses are identified and corrected. Proper error handling is implemented to improve system reliability.
+
+### 7\. Testing Outcome
+
+The testing phase helps verify the main features of PocketSmart AI, including budget planning, expense analysis, and AI-powered recommendations. Any identified issues are corrected to improve the application's functionality.
+
+### 8\. Conclusion
+
+The project testing phase plays an important role in ensuring the quality and reliability of PocketSmart AI. Testing the application thoroughly helps deliver a smooth, efficient, and user-friendly AI-powered budgeting assistant.
