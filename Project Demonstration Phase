@@ -1,0 +1,83 @@
+### PocketSmart AI: Your Smart Budget & Recommendation Assistant
+
+### Project Demonstration Phase
+
+### 1\. Introduction
+
+The project demonstration phase presents the working model of PocketSmart AI. It explains the main features, application workflow, and use of Google Gemini AI for smart budget planning and personalized financial recommendations.
+
+### 2\. Demonstration Objectives
+
+* To demonstrate the working of PocketSmart AI.
+
+* To explain the main features of the application.
+
+* To show the integration of Google Gemini AI.
+
+* To demonstrate budget planning and expense analysis.
+
+* To present the final project output.
+
+### 3\. Demonstration Process
+
+Step 1: Application Launch
+
+* Open the PocketSmart AI web application using Streamlit.
+
+* Display the home page with the project title and introduction.
+
+Step 2: Enter Financial Details
+
+* Enter monthly income.
+
+* Provide monthly expenses.
+
+* Set a budget limit.
+
+* Enter savings goals.
+
+Step 3: Generate Recommendations
+
+* Click the Generate Recommendations button.
+
+* The application sends the financial details to Google Gemini AI.
+
+* Gemini processes the information and generates suitable recommendations.
+
+Step 4: Display Results
+
+* Display the personalized budget plan.
+
+* Show expense management suggestions.
+
+* Present money-saving tips and financial recommendations.
+
+### 4\. Screenshots and Screen Recording
+
+Screenshots and screen recordings are used to present the application's working process.
+
+* Home Page: Shows the application title and interface.
+
+* Input Page: Displays the financial information entered by the user.
+
+* Processing Stage: Demonstrates the AI recommendation process.
+
+* Output Page: Shows the generated budget plan and saving suggestions.
+
+### 5\. Technologies Demonstrated
+
+* Python: Application logic and processing.
+
+* Streamlit: Interactive web interface.
+
+* Google Gemini API: AI-powered financial recommendations.
+
+* Visual Studio Code: Project development and code management.
+
+### 6\. Demonstration Outcome
+
+The demonstration shows how PocketSmart AI accepts financial details, connects with Gemini AI, and generates personalized budgeting suggestions. It highlights the application's main features and ease of use.
+
+### 7\. Conclusion
+
+The project demonstration phase presents the completed PocketSmart AI application and its working process. It showcases how artificial intelligence can simplify budget management, encourage savings, and help users make better financial decisions.
